@@ -1,2 +1,5 @@
-# curso-see
-Taller Final del curso: Procesamiento de Lenguaje Natural organizado por la Sociedad Ecuatoriana de Estadística, dictado por Hugo Porras
+# Web scraping in R
+
+Se analizo los tópicos y palabras más usadas en 3 medios escritos
+Ecuatorianos (El Comercio, El Universo y Primicias) al referirse al
+término de búsqueda Andres Arauz y Rafael Correa
